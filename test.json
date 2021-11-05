@@ -1,5 +1,8 @@
 {
   "foo": {
-     "bar": null
+     "bar": 0
+  },
+  "bar": {
+    "foo": 1
   }
 }
