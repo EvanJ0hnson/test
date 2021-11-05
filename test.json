@@ -16,5 +16,8 @@
   },
   "test": {
     "value": 0
+  },
+  "test2": {
+    "value": 1
   }
 }
