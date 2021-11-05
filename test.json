@@ -5,7 +5,7 @@
   "bar": {
     "foo": 2
   },
-  "baz": {
-    "foo": 0,
+  "test": {
+    "value": 0
   }
 }
